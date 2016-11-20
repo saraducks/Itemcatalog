@@ -1,0 +1,8 @@
+
+body {font-family: 'Abril Fatface', cursive;background-color: #B6AFA9;}
+h1, h2, h3, h4{color: #000000}
+a {text-decoration: underline;color: #FFFFFF;}
+.flash{background-color: #990012}
+h1,div {align-items: center;text-align: left;}
+body {border-style: double;border-spacing: 1em;padding: 25px;margin: 25px;}
+.menu_description {border-style: dotted;border-collapse: separate;padding: 25px;width: 500px;}
